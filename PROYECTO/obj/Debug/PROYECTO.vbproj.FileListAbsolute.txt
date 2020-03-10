@@ -1,0 +1,39 @@
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.FrmUyA.resources
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.Cache
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\bin\Debug\es-MX\PROYECTO.resources.dll
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.FrmSelect.resources
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.FrmSelect.es-MX.resources
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\es-MX\PROYECTO.resources.dll
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.FrmPickMap.resources
+C:\Users\3B pls\Documents\Visual Studio 2008\Projects\PROYECTO\PROYECTO\obj\Debug\WindowsApplication1.FrmEdoCoahGame.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\es-MX\PROYECTO.resources.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmUyA.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmEdoCoahGame.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmPickMap.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmSelect.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmSelect.es-MX.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.Cache
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\es-MX\PROYECTO.resources.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.FrmNoCierto.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\WindowsApplication1.Regiones.resources
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ensamble\Favorites\Desktop\PROYECTO UNE Y APRENDE\Une y Aprende (Desarrollo)\PROYECTO\obj\Debug\PROYECTO.vbproj.ResolveComReference.cache
